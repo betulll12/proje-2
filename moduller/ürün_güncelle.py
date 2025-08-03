@@ -1,5 +1,5 @@
 def ürünlerigüncellemenu():
-DOSYA_ADI = "stok.txt"
+    DOSYA_ADI = "stok.txt"
     urun_adi = input("Güncellenecek ürün adı: ").lower()
     guncellendi = False
     with open(DOSYA_ADI, "r", encoding="utf-8") as f:

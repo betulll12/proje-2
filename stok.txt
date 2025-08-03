@@ -1,4 +1,3 @@
-su,20,3
-su,15& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/moduller/ürün_ekle.py,& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py
-su,15,7
-& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py,& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py,& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py
+& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py,& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py,l
+ekmek,50,12
+yoğurt 5kg,4,150

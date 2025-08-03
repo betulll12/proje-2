@@ -40,7 +40,7 @@ def anamenu():
         exit()
 
     else:
-     print("Geçersiz seçim! Lütfen tekrar deneyin.")    
+        print("Geçersiz seçim! Lütfen tekrar deneyin.")    
 
 anamenu()
     
