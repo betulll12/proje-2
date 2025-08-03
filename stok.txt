@@ -1,3 +1,24 @@
-beyaz peynir,4,130
-süt,10,35
-ayran,60,15
+Ekmek,20,7
+yarım yağlı süt,15,30
+Yumurta (10'lu),8,30
+Un 1kg,12,25
+Şeker 1kg,10,28
+Tuz 1kg,18,10
+Çay 1kg,6,95
+Zeytinyağı 1L,4,145
+Ayçiçek Yağı 1L,5,90
+Peynir 500g,7,75
+Tereyağı 250g,6,80
+Domates,25,12
+Salatalık,20,10
+Patates,28,11
+Elma,15,18
+Muz,12,25
+Kola 1L,10,22
+Gazoz 1L,9,18
+Su 1.5L,30,6
+Tavuk Göğsü 1kg,5,120
+Kıyma 1kg,3,180
+Bal 1kg,4,140
+Çikolata,14,20
+Cips,16,25

@@ -15,37 +15,37 @@
 
 #1.ÜRÜNLERİ EKLE
 ----------------
-<img height="300" src="resim/r-3.png">
+<img height="400" src="resim/r-3.png">
 <p>Burada mağazaya yeni gelen ürünleri ekleyebilirsiniz.<p>
 ------------------------------------------
 
 #2.ÜRÜNLERİ LİSTELE
 ----------
-<img height="200" src="resim/.png">
+<img height="500" src="resim/r-4.png">
 <p>Burada mağazadaki bütün ürünleri listeleyip bakabilirsiniz.<p>
 ------------------------------------------
 
 #3.ÜRÜNLERİ ARA
 ----------------
-<img height="200" src="resim/.png">
+<img height="350" src="resim/r-5.png">
 <p>Burada mağazada aradığınız bir ürün varsa bakabilirsiniz..<p>
 -------------------------------------------
 
 #4.ÜRÜNLERİ SİL
 ---------------
-<img height="200" src="resim/.png">
+<img height="350" src="resim/r-6.png">
 <p>Burada mağazada artık satılmayan ürünleri silebilirsiniz..<p>
 --------------------------------------------
 
 #5.ÜRÜNLERİ GÜNCELLE
 ---------------
-<img height="200" src="resim/.png">
+<img height="350" src="resim/r-7.png">
 <p>Burada mağazadaki ürünleri güncelleyebilirisiniz.<p>
 --------------------------------------------
 
 #6.STOK KONTROL
 -------------------------------
-<img height="200" src="resim/r-8.png">
+<img height="350" src="resim/r-8.png">
 <P>Burada mağazadaki ürünleri stokta ne kadar mevcut olduğuna bakabilirsiniz.<p>
 --------------------------------------------
 
