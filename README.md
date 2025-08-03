@@ -9,48 +9,48 @@
 
 #ANA MENÜ
 -----------
-<img height="150" src="resim/r-1.png">
+<img height="200" src="resim/r-1.png">
 <p> Burada ürünleri ekle,sil,ara,güncelle,listele ve stok kontrol menüleri bulunmaktadır. 1-7 arası seçim yapabilirsiniz.<p>
 -------------------------------------------
 
 #1.ÜRÜNLERİ EKLE
 ----------------
-<img height="150" src="resim/.png">
+<img height="200" src="resim/r-3.png">
 <p>Burada mağazaya yeni gelen ürünleri ekleyebilirsiniz.<p>
 ------------------------------------------
 
-#2.üRÜNLERİ LİSTELE
+#2.ÜRÜNLERİ LİSTELE
 ----------
-<img height="150" src="resim/.png">
+<img height="200" src="resim/.png">
 <p>Burada mağazadaki bütün ürünleri listeleyip bakabilirsiniz.<p>
 ------------------------------------------
 
 #3.ÜRÜNLERİ ARA
 ----------------
-<img height="150" src="resim/.png">
+<img height="200" src="resim/.png">
 <p>Burada mağazada aradığınız bir ürün varsa bakabilirsiniz..<p>
 -------------------------------------------
 
 #4.ÜRÜNLERİ SİL
 ---------------
-<img height="150" src="resim/.png">
+<img height="200" src="resim/.png">
 <p>Burada mağazada artık satılmayan ürünleri silebilirsiniz..<p>
 --------------------------------------------
 
 #5.ÜRÜNLERİ GÜNCELLE
 ---------------
-<img height="150" src="resim/.png">
+<img height="200" src="resim/.png">
 <p>Burada mağazadaki ürünleri güncelleyebilirisiniz.<p>
 --------------------------------------------
 
 #6.STOK KONTROL
 -------------------------------
-<img height="150" src="resim/.png">
+<img height="200" src="resim/r-8.png">
 <P>Burada mağazadaki ürünleri stokta ne kadar mevcut olduğuna bakabilirsiniz.<p>
 --------------------------------------------
 
 #7.ÇIKIŞ
 ---------------
-<img height="150" src="resim/.png">
+<img height="200" src="resim/r-9.png">
 <p>Buradan da 7 numarayı yazıp çıkış yapabilirisiniz.<p>
 --------------------------------------------

@@ -1,2 +1,3 @@
 beyaz peynir,4,130
 süt,10,35
+ayran,60,15
