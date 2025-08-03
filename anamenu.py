@@ -16,7 +16,7 @@ def anamenu():
     print("╚═════════════════════╝")
 
 
-    secim = input("Seçiminizi yapınız (1-7):")
+    secim = input("Seçiminizi girin (1-7): ")
     if secim=="1":
         import moduller.ürün_ekle
         moduller.ürün_ekle.ürünlerieklemenu()  

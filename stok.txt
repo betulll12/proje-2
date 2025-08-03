@@ -1,3 +1,2 @@
-& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py,& C:/Users/BETÜL/AppData/Local/Programs/Python/Python313/python.exe c:/Users/BETÜL/Desktop/proje-2/anamenu.py,l
-ekmek,50,12
-yoğurt 5kg,4,150
+beyaz peynir,4,130
+süt,10,35

@@ -1,5 +1,5 @@
 def ürünleriaramenu():
-  DOSYA_ADI = "stok.txt"
+    DOSYA_ADI = "stok.txt"
 
     aranan = input("Aranacak ürün adı: ").lower()
     bulundu = False
