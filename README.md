@@ -1,7 +1,7 @@
 # STOK TAKİP UYGULAMASI
 # proje-2
 # PHYTON
-<img height="150" src="resim/PHYTON.png">
+<img height="150" src="resim/r-2.png">
 
 #PROJE AÇIKLAMASI
 -------------------
