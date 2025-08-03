@@ -9,7 +9,7 @@
 
 #ANA MENÜ
 -----------
-<img height="200" src="resim/r-1.png">
+<img height="300" src="resim/r-1.png">
 <p> Burada ürünleri ekle,sil,ara,güncelle,listele ve stok kontrol menüleri bulunmaktadır. 1-7 arası seçim yapabilirsiniz.<p>
 -------------------------------------------
 
