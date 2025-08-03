@@ -1,8 +1,6 @@
 def anamenu():
     print ("anamenu")
-
     print("\033[1;32;40m")
-    #print("╔"+"═"*20+"╗")
     print("╔═════════════════════╗")
     print("║STOK TAKİP PROGRAMI  ║")
     print("║                     ║")
