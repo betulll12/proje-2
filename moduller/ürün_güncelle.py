@@ -1,0 +1,2 @@
+def ürünlerigüncellemenu():
+  pass

@@ -11,16 +11,17 @@ def anamenu():
     print("║  3-Ürünleri ara     ║")
     print("║  4-Ürünleri sil     ║")
     print("║  5-Ürünleri güncelle║")
-    print("║  6-Çıkış            ║")
+    print("║  6-Stok kontrol     ║")
+    print("║  7-Çıkış            ║")
     print("║                     ║")
     print("║    Seçimiz nedir?   ║")
     print("╚═════════════════════╝")
 
 
-    secim = input("Seçiminizi yapınız (1-6):")
+    secim = input("Seçiminizi yapınız (1-7):")
     if secim=="1":
         import moduller.ürün_ekle
-        moduller.ürün_ekle.ürüneklemenu()  
+        moduller.ürün_ekle.ürünlerieklemenu()  
     if secim=="2":
         import moduller.ürünleri_listele
         moduller.ürünleri_listele.ürünlerilistelemenu()  
@@ -34,6 +35,9 @@ def anamenu():
         import moduller.ürün_güncelle
         moduller.ürün_güncelle.ürünlerigüncellemenu()
     if secim == "6":
+        import moduller.kontrol_stok
+        moduller.kontrol_stok.stokkontrolmenu()    
+    if secim == "7":
         print("Çıkış")
         exit()
 

@@ -1,0 +1,2 @@
+def ürünlerisilmenu():
+    pass
