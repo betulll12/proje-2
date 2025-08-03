@@ -15,7 +15,7 @@
 
 #1.ÜRÜNLERİ EKLE
 ----------------
-<img height="200" src="resim/r-3.png">
+<img height="300" src="resim/r-3.png">
 <p>Burada mağazaya yeni gelen ürünleri ekleyebilirsiniz.<p>
 ------------------------------------------
 
