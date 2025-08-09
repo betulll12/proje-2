@@ -8,6 +8,7 @@
 <P>Bu projede 1 den 7 ye kadar ürünleri ekle, listele,ara,güncelle,sil,stok kontrolü modülleri bulunmaktadır. Bu modüllerden istediğiniz birisini mağazadaki ürünleri sisteme kolaylıkla ekleyip silebilir ve stokta ne kadar mevcut olduğunuayrıca istenen ürünün mağazada olup olmadığını kontrol edebilirsiniz.Projede kullanılan kodlar mevcuttur.Bu proje phyton da konuları daha iyi kavramak ve günlük hayatı kolaylaştırmak amacıyla yapılmıştır.<p>
 
 #EXE DOSYASI
+-------------------
 <a href=<a href="https://drive.google.com/file/d/1Z9sLZ9oGRjoH65gWo7FPbYg-TjNk3JJy/view?usp=sharing">
 <p>Exe dosyasına ulaşmak için yukarıdaki dosyaya tıklayınız.<p>
 
