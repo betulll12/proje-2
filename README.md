@@ -9,7 +9,7 @@
 
 #EXE DOSYASI
 -------------------
-<a href=<a href="https://drive.google.com/file/d/1Z9sLZ9oGRjoH65gWo7FPbYg-TjNk3JJy/view?usp=sharing">
+<a href="https://drive.google.com/drive/folders/1dk9J-xQlZBoFSvhR9vylt9HsoOOOHqCi?usp=sharing">
 <p>Exe dosyasına ulaşmak için yukarıdaki dosyaya tıklayınız.<p>
 
 #ANA MENÜ
