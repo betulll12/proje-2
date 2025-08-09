@@ -22,3 +22,4 @@ Kıyma 1kg,3,180
 Bal 1kg,4,140
 Çikolata,14,20
 Cips,16,25
+soğan,30,9
