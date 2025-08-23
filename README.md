@@ -51,7 +51,7 @@
 #6.STOK KONTROL
 -------------------------------
 <img height="350" src="resim/r-8.png">
-<P>Burada mağazadaki ürünleri stokta ne kadar mevcut olduğuna bakabilirsiniz.<p>
+<P>Burada mağazadaki ürünleri stokta ne kadar mevcut olduğuna bakabilirsiniz ayrıca ürünün adet sayısı 5 in altına düştüğünde uyarı verir.<p>
 --------------------------------------------
 
 #7.ÇIKIŞ
